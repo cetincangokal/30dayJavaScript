@@ -1,0 +1,3 @@
+# 30dayJavaScript
+
+Başlangıç
